@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "204645392006",
+    "project_id": "fluttercourc",
+    "storage_bucket": "fluttercourc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204645392006:android:555b28f540cee7467c3b07",
+        "android_client_info": {
+          "package_name": "com.example.firebas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALI_gxL8Fb46YhiPTkGdwLSaCI-TYntUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
